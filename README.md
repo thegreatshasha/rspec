@@ -1,7 +1,8 @@
-# Example Code to learns rspec
+# Example code to learns rspec
+Have a look at files in spec folder
 
 # Installation
-gem install rspec
+bundle install
 
 # Running
 rspec spec
